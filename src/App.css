@@ -1,0 +1,12 @@
+*,img{
+  margin: 0px;
+  padding: 0px;
+}
+.App {
+  text-align: center;
+}
+.App img{
+  width: 100vw;
+  margin: 0px;
+  padding: 0px;
+}
